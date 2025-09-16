@@ -1,0 +1,13 @@
+
+# SMS-OTP-Extraction
+
+Problem statement:
+
+1. You will be given a CSV of SMS that contains OTP. You need to write code to extract OTP from the given SMS message.
+2. You will be provided with the helper code [based on your preferred programming language]
+3. You need to write the path to master data in getMasterDataFilePath().
+4. And also write your logic inside function extractOtp(sms: String) and return the extracted OTP
+5. A file named for failed test cases is also generating containing SMS messages where OTP extraction failed.
+
+ 
+Note: SMS will contain OTP of length of in between 4-8
